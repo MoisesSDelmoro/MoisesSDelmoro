@@ -9,9 +9,9 @@
 <p align="center">
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong>   
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong>   
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
 </p>
 
