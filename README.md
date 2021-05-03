@@ -21,7 +21,7 @@
 <br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&layout=compact&hide=jupyter%20notebook&theme=dark" alt="moisessdelmoro" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&layout=compact&hide=jupyter%20notebook&theme=dark" alt="moisessdelmoro" />
 <br />
 
 </p>
