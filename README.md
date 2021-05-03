@@ -20,8 +20,8 @@
 </p>
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" alt="moisessdelmoro" /> 
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&show_icons=true&hide_border=true&theme=dark" alt="moisessdelmoro" />
+<br /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&layout=compact&hide=jupyter%20notebook&theme=dark" alt="moisessdelmoro" />
 <br />
 
 </p>
