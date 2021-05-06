@@ -1,12 +1,11 @@
 <h1>Olá <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, eu sou Moisés S. Delmoro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" /> </p>
 
-<p align="left"><b>Sobre mim</b> <br>
+<h4><p align="left"><b>Sobre mim</b> <br></h4>
 - 🔭 Estou cursando o 9º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações).<br/>
 - 🌱 Atualmente estou realizando um curso de React e outro de Flutter.
 
-<p align="left"><b>Linguagens</b> <br>
-
+<h4><p align="left"><b>Linguagens</b> <br></h4>
 <p>
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>  
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> 
