@@ -3,7 +3,7 @@
 
 <h4><p align="left"><b>Sobre mim</b> <br></h4>
 - 🔭 Estou cursando o 9º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações).<br/>
-- 🌱 Atualmente estou realizando um curso de React e outro de Flutter.
+- 🌱 Atualmente estou realizando um curso de React e outro de Flutter utilizando o Dart.
 
 <h4><p align="left"><b>Linguagens</b> <br></h4>
 <p>
