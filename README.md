@@ -23,7 +23,7 @@
 <br>
 <p>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&layout=compact&hide=jupyter%20notebook&theme=dark" alt="moisessdelmoro" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=7&layout=compact&theme=dark" alt="moisessdelmoro" />
 <br />
 
 </p>
