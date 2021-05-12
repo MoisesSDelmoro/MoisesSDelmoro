@@ -15,8 +15,9 @@
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <stronk> </stronk>  
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <stronk> </stronk>  
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"/> <stronk> </stronk>
-  <img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
-  <img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
+  <img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> <stronk> </stronk>
+  <img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> <stronk> </stronk>
+  <img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> <stronk> </stronk>
 
 </p>
 <br>
