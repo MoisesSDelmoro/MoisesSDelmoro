@@ -5,7 +5,7 @@
 - 🔭 Estou cursando o 9º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações).<br/>
 - 🌱 Atualmente estou realizando um curso de React e outro de Flutter utilizando o Dart.
 
-<h4><p align="left"><b>Linguagens</b> <br></h4>
+<h4><p align="left"><b>Linguagens e tecnologias</b> <br></h4>
 <p>
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <stronk> </stronk>
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <stronk> </stronk>
@@ -22,8 +22,8 @@
 </p>
 <br>
 <p>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=7&layout=compact&theme=dark" alt="moisessdelmoro" />
+<img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
+<img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
 <br />
 
 </p>
