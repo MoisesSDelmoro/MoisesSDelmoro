@@ -7,7 +7,7 @@
 
 <h4><p align="left"><b>Linguagens e tecnologias</b> <br></h4>
 <p>
-  <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <stronk> </stronk>
+  <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> 
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <stronk> </stronk>
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"/> <stronk> </stronk>
   <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <stronk> </stronk>
