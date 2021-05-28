@@ -18,12 +18,11 @@
   <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
   <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
   <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
-  <a href="">
-</p>
+  </p>
 <br>
 <p>
-<img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
-<img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
+<a href="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
 <br />
 
 </p>
