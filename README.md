@@ -17,7 +17,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png"/>   
   <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>  
   <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"/> 
-  
   <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
   </p>
 <br>
