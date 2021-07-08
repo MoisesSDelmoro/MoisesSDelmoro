@@ -6,7 +6,6 @@
 
 <h4><p align="left"><b>Linguagens e tecnologias</b> <br></h4>
 <p>
-  
   <a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> 
   <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> 
   <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
