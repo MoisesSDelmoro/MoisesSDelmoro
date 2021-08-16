@@ -3,7 +3,7 @@
   
 <h4><p align="left"><b>Sobre mim</b> <br></h4>
 - 🔭 Estou cursando o 10º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações).<br/> 
-        
+ 
 <h4><p align="left"><b>Linguagens e tecnologias</b> <br></h4>
 <p>
   <a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> 
