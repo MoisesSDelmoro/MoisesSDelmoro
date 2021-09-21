@@ -9,14 +9,14 @@
   <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
   <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
   <a href="https://www.python.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-  <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/> 
-  <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/>
+  <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
+  <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+  <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
   <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://www.probytes.net/wp-content/uploads/2018/07/javascript-logo-E967E87D74-seeklogo.com_.png"/>   
   <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
-  <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
   </p>
 <br>
 <p>
