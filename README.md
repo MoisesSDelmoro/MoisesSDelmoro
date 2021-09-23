@@ -1,7 +1,7 @@
 <h1>Olá <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, eu sou Moisés S. Delmoro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" /> </p>
    
-<h4><p align="left"><b>Sobre mim</b> <br></h4>
+<h4><p align="left"><b>Sobre mim</b> <br></h4> 
 - 🔭 Estou cursando o 10º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações). Atualmente realizando estágio em desenvolvimento Web e Mobile.<br/> 
  
 <h4><p align="left"><b>Linguagens e tecnologias dominadas</b> <br></h4>
