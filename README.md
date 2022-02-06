@@ -1,8 +1,11 @@
 <h1>Olá <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, eu sou Moisés S. Delmoro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" /> </p>
    
-<h4><p align="left"><b>Sobre mim</b> <br></h4> 
-- 🔭 Estou cursando o 10º período de Engenharia da Computação - Inatel (Instituto Nacional de Telecomunicações). Atualmente realizando estágio em desenvolvimento Web e Mobile.<br/> 
+<h4><p align="left"><b>Sobre mim</b></h4>
+- :mortar_board: Sou Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações).<br>
+- :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Júnior.<br>
+-  :wink: Quase 1 ano de experiência (8 meses de estágio, 3 meses como DEV).<br/> 
+- 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar atualizado com o mercado. <br> 
  
 <h4><p align="left"><b>Linguagens e tecnologias dominadas</b> <br></h4>
 <p>
@@ -24,7 +27,5 @@
 <p>
 <a href="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
-<br />
-
-  
+<br /> 
 </p>
