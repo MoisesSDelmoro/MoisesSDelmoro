@@ -9,11 +9,12 @@
  
 <h4><p align="left"><b>Linguagens e tecnologias dominadas</b> <br></h4>
 <p>
-  <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
-  <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
   <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
-  <a href="https://react-bootstrap.github.io/getting-started/introduction/" target="_blank"><img height="40" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667"/> 
+  <a href="https://mui.com/pt/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"/> 
+  <a href="https://react-bootstrap.github.io/getting-started/introduction/" target="_blank"><img height="40" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667"/>
+ <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
+  <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
   <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
   <a href="https://www.python.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
   <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
