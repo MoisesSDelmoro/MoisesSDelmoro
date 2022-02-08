@@ -32,6 +32,7 @@
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png"/>
     <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+    <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png"/>
 </p>
 <br>
 <p>
