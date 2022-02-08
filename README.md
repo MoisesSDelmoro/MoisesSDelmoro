@@ -12,17 +12,18 @@
 -  :wink: Quase 1 ano de experiência (8 meses de estágio, 3 meses como DEV).<br/> 
 - 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar atualizado com o mercado. <br> 
  
-<h4><p align="left"><b>Linguagens e tecnologias dominadas</b> <br></h4>
+<h4><p align="left"><b>Linguagens e tecnologias de maior uso e experiência</b> <br></h4>
 <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
     <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
     <a href="https://mui.com/pt/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"/> 
-    <a href="https://react-bootstrap.github.io/getting-started/introduction/" target="_blank"><img height="40" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667"/>
     <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
-    <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
     <a href="https://www.python.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
     <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
+</p>
+<h4><p align="left"><b>Outras linguagens e tecnologias dominadas</b> <br></h4>
+<p>
     <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
     <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/> 
@@ -30,6 +31,7 @@
     <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png"/>
+    <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 </p>
 <br>
 <p>
