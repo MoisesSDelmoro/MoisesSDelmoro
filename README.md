@@ -12,7 +12,7 @@
 -  :wink: Quase 1 ano de experiência (8 meses de estágio, 3 meses como DEV).<br/> 
 - 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar atualizado com o mercado. <br> 
  
-<h4><p align="left"><b>Linguagens e tecnologias de maior uso e experiência</b> <br></h4>
+<h4><p align="left"><b>Linguagens e tecnologias de maior domínio e experiência</b> <br></h4>
 <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
     <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
