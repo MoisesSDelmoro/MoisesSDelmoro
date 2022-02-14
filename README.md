@@ -7,7 +7,7 @@
     <p align="left">
         <b> Sobre mim </b>
 </h4>
-- :mortar_board: Sou Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações).<br>
+- :mortar_board: Sou Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Júnior.<br>
 -  :wink: Quase 1 ano de experiência (8 meses de estágio, 3 meses como DEV).<br/> 
 - 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar atualizado com o mercado. <br> 
