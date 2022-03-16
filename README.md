@@ -28,10 +28,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
     <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
     <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://logodix.com/logo/1861733.png"/>
-    <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
-    <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
     <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/> 
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/> 
+    <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
+    <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
     <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
 </p>
 <br>
