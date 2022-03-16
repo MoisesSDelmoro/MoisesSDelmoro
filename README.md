@@ -30,7 +30,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/> 
     <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
     <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
     <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png"/>
 </p>
