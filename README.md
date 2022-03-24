@@ -21,7 +21,7 @@
     <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
 </p>
-<h4><p align="left"><b>Outras linguagens e tecnologias dominadas, porém menor experiência</b> <br></h4>
+<h4><p align="left"><b>Outras linguagens e tecnologias de conhecimento, porém menor experiência</b> <br></h4>
 <p>
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
