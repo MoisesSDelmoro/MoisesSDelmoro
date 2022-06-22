@@ -20,12 +20,12 @@
     <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
     <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
+    <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 </p>
 <h4><p align="left"><b>Outras linguagens e tecnologias de conhecimento, porém menor experiência</b> <br></h4>
 <p>
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
-    <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
     <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://logodix.com/logo/1861733.png"/>
     <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/> 
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/> 
