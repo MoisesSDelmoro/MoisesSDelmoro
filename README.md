@@ -22,7 +22,7 @@
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
     <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 </p>
-<h4><p align="left"><b>Outras linguagens e tecnologias de conhecimento</b> <br></h4>
+<h4><p align="left"><b>Outros conhecimentos</b> <br></h4>
 <p>
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
