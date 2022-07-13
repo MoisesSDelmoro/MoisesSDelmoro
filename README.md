@@ -24,7 +24,7 @@
 </p>
 <h4><p align="left"><b>Outras linguagens e tecnologias de conhecimento</b> <br></h4>
 <p>
-    <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://luiz-eduardo-prado-veltroni.netlify.app/imgs/habilidades/next.webp"/>
+    <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
     <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://logodix.com/logo/1861733.png"/>
     <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/> 
