@@ -9,7 +9,7 @@
 </h4>
 - :mortar_board: Sou Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Júnior.<br>
--  :wink: 1 ano de experiência (8 meses como DEV Full Stack Júnior, 8 meses de estágio).<br/> 
+-  :wink: 1 ano de experiência.<br/> 
 - 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar atualizado com o mercado. <br> 
  
 <h4><p align="left"><b>Linguagens e tecnologias de maior domínio e experiência</b> <br></h4>
