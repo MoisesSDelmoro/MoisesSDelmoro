@@ -40,4 +40,6 @@
 <br /> 
 </p>
 
+---
+        
 ![Snake animation](https://github.com/MoisesSDelmoro/MoisesSDelmoro/blob/output/github-contribution-grid-snake.svg)
