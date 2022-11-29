@@ -1,18 +1,16 @@
-<h1>Moisés S. Delmoro</h1>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" />
-</p>
-   
-<h4>
-    <p align="left">
-        <b> Sobre mim </b>
-</h4>
+# Moisés S. Delmoro
+
+<img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" />
+
+#### Sobre mim 
+
 - :mortar_board: Sou Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Júnior.<br>
 -  :wink: 1 ano e meio de experiência.<br/> 
 - 🔭 Gosto de estudar e conhecer novas tecnologias, buscando ficar sempre atualizado. <br> 
  
-<h4><p align="left"><b>Linguagens e tecnologias de maior domínio e experiência</b> <br></h4>
+#### Linguagens e tecnologias de maior domínio e experiência
+
 <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
     <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
@@ -22,7 +20,9 @@
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
     <a href="https://nodejs.org/en/" target="_blank"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 </p>
-<h4><p align="left"><b>Outros conhecimentos</b> <br></h4>
+
+#### Outros conhecimentos
+        
 <p>
     <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
@@ -41,5 +41,3 @@
 </p>
 
 ---
-        
-![Snake animation](https://github.com/MoisesSDelmoro/MoisesSDelmoro/blob/output/github-contribution-grid-snake.svg)
