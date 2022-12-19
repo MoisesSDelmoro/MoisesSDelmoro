@@ -36,8 +36,7 @@
 <br>
 <p>
     <a href="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109,PayFlow&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109&langs_count=8&layout=compact&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessdelmoro&hide=jupyter%20notebook&exclude_repo=ExerciciosM109,PayFlow&langs_count=8&layout=compact&theme=dark" alt="moisessdelmoro" />
 <br /> 
 </p>
 
----
