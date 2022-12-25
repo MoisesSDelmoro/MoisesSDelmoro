@@ -33,6 +33,10 @@
     <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
     <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
 </p>
+     
+ #### Meu currículo
+Desenvolvido em React JS e hospedado na Vercel - [Link para o currículo](https://moises-s-delmoro-cv.vercel.app/)
+     
 <br>
 <p>
     <a href="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" target="_blank"><img height="188" src="https://github-readme-stats.vercel.app/api?username=moisessdelmoro&show_icons=true&theme=dark" /> 
