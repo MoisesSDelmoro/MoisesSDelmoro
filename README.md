@@ -35,7 +35,7 @@
 </p>
      
  #### Meu currículo
-Desenvolvido em React JS e hospedado na Vercel - [Link para o currículo](https://moises-s-delmoro-cv.vercel.app/)
+Desenvolvido em React JS e hospedado na Vercel - [Link para o currículo](https://moisesdelmoro.vercel.app/)
      
 <br>
 <p>
