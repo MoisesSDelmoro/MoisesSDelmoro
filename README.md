@@ -9,7 +9,7 @@
 - :wink: Quase 2 anos de experiência.<br/>  
 - 🔭 Gosto de estudar, conhecer novas tecnologias e de novos desafios, qual é o próximo?
  
-#### Linguagens e tecnologias de maior domínio e experiência
+#### Linguagens e tecnologias de maior domínio e experiência 
 
 <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
