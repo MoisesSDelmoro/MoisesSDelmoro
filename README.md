@@ -5,8 +5,8 @@
 #### Sobre mim      
  
 - :mortar_board: Engenheiro da Computação - Inatel (Instituto Nacional de Telecomunicações - 2021).<br>
-- :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack.<br> 
-- :wink: 2 anos de experiência.<br/>   
+- :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Pleno.<br> 
+- :wink: Mais de 2 anos de experiência.<br/>   
 - 🔭 Gosto de estudar, conhecer novas tecnologias e de novos desafios, qual é o próximo?
   
 #### Linguagens e tecnologias de maior domínio e experiência  
