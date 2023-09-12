@@ -9,7 +9,7 @@
 - :wink: Mais de 2 anos de experiência.<br/>   
 - 🔭 Gosto de estudar, conhecer novas tecnologias e de novos desafios, qual é o próximo?
   
-#### Conhecimentos de maior experiência  
+#### Conhecimentos de maior experiência   
 
 <p>
     <a href="https://pt-br.reactjs.org/" target="_blank"><img height="40" src="https://angeloocana.com/imgs/react.svg"/> 
