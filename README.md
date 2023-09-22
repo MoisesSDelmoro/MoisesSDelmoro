@@ -17,7 +17,7 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/>   
     <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
     <a href="https://www.python.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-    <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://blog.cadumagalhaes.dev/assets/docker_moby_logo.png"/>
+    <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq"/>
     <a href="https://cloud.google.com/?hl=pt-br" target="_blank"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/cloud/images/favicons/onecloud/apple-icon.png"/>
 </p>
 
