@@ -6,7 +6,7 @@
  
 - :mortar_board: Engenheiro da Computação - INATEL (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Pleno.<br> 
-- :wink: Mais de 2 anos de experiência.<br/>   
+- :wink: Quase 3 anos de experiência.<br/>   
 - 🔭 Gosto de estudar, conhecer novas tecnologias e de novos desafios, qual é o próximo?
   
 #### Conhecimentos de maior experiência     
