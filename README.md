@@ -16,7 +16,7 @@
     <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
     <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq"/>
     <a href="https://www.terraform.io/" target="_blank"><img height="40" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png"/> 
-    <a href="https://cloud.google.com/?hl=pt-br" target="_blank"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/cloud/images/favicons/onecloud/apple-icon.png"/>
+    <a href="https://cloud.google.com/?hl=pt-br" target="_blank"><img height="40" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png"/>
 </p>
 
 #### Outros conhecimentos
