@@ -2,7 +2,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=moisessdelmoro" alt="moisessdelmoro" />
 
-#### Sobre mim      
+#### Sobre mim       
  
 - :mortar_board: Engenheiro da Computação - INATEL (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Trabalho atualmente como Desenvolvedor Full Stack Pleno.<br> 
