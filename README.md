@@ -6,7 +6,7 @@
  
 - :mortar_board: Engenheiro da Computação - INATEL (Instituto Nacional de Telecomunicações - 2021).<br>
 - :busts_in_silhouette: Atualmente sou Desenvolvedor Full Stack Pleno.<br> 
-- :wink: Mais de 3 anos de experiência.<br/>    
+- :wink: Quase 4 anos de experiência.<br/>    
 - 🔭 Gosto de desafios e novas tecnologias.
   
 #### Conhecimentos de maior experiência     
@@ -24,9 +24,9 @@
 <p>
     <a href="https://flutter.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"/> 
     <a href="https://dart.dev/" target="_blank"><img height="40" src="https://cdnlogo.com/logos/d/66/dart.svg"/> 
-    <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
+    <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/development/next.js-bcrxradqwfjv7t2di6c96.png/next.js-tkpt01eo0tpocevvyxrsc.png?_a=DAJFJtWIZAAC"/>
     <a href="https://www.cypress.io/" target="_blank"><img height="40" src="https://logodix.com/logo/1861733.png"/>
-    <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>
-    <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
+    <a href="https://www.java.com/pt-BR/" target="_blank"><img height="40" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
+    <a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"/> 
 </p>
  
