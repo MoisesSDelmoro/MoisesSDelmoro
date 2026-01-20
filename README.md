@@ -6,7 +6,7 @@
  
 - :mortar_board: Engenheiro da Computação - INATEL (Instituto Nacional de Telecomunicações - 2021).<br>
 - :fire: DevOps | Desenvolvedor Full Stack.<br> 
-- :wink: Mais de 4 anos de experiência.<br/>    
+- :wink: Mais de 4 anos e meio de experiência.<br/>    
 - 🔭 Gosto de desafios e resolver problemas de forma criativa.
   
 #### Conhecimentos de maior experiência     
